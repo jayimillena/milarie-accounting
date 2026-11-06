@@ -123,4 +123,7 @@ If you discover a security vulnerability within Milarie Accounting, please refer
 
 ## 📄 License
 
-Milarie Accounting is open-source software licensed under the [MIT License](LICENSE)."# milarie-accounting" 
+Milarie Accounting is open-source software licensed under the [MIT License](LICENSE).
+
+Created by Jay of Salakot Agri-ventures Philippines Corporation with the help of Gemini Flash 3.6
+"# milarie-accounting" 
