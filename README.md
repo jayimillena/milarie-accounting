@@ -127,4 +127,3 @@ Milarie Accounting is open-source software licensed under the [MIT License](LICE
 
 Created by Jay and Jaymel of Salakot Agri-ventures Philippines Corporation with the help of Gemini Flash 3.6
 "# milarie-accounting" 
-"# milarie-accounting" 
