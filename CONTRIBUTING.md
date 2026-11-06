@@ -57,7 +57,7 @@ git checkout -b fix/issue-number
 We follow conventional commit messages:
 * `feat: add multi-currency exchange rate updater`
 * `fix: resolve balance sheet calculation error on leap years`
-* `docs: update API authentication guide`
+* `docs: update API authentication guide` 
 
 #### Step F: Push and Submit a Pull Request (PR)
 1. Push your branch to GitHub:
