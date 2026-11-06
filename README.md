@@ -20,11 +20,11 @@ Milarie Accounting is a modern, secure, and fully open-source financial manageme
 
 ## 🛠️ Technology Stack
 
-* **Backend:** Node.js / Express (or Python / FastAPI depending on your deployment branch)
+* **Backend:** Node.js, Laravel 13, PHP 8.5.12*
 
-* **Frontend:** React with Tailwind CSS for a responsive, modern UI
+* **Frontend:** React with Tailwind CSS for a responsive, modern UI, Livewire
 
-* **Database:** PostgreSQL for reliable ACID-compliant financial data handling
+* **Database:** MySQL for financial data handling
 
 ## ⚙️ Installation Guide (Manual / Without Docker)
 
@@ -33,9 +33,11 @@ If you prefer to run Milarie Accounting directly on your server or local machine
 ### Prerequisites
 
 Ensure you have the following installed on your system:
-* **Node.js** (v18.x or higher)
-* **npm** or **yarn**
-* **PostgreSQL** (v14 or higher)
+* **Node.js** 
+* **Composer** 
+* **Git Bash**
+* **MySQL** 
+* **PHP 8.5.12** 
 
 ### Step 1: Clone the Repository
 
